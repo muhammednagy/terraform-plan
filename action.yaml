@@ -1,4 +1,4 @@
-name: terraform-plan-nagy
+name: terraform-plan-aws
 description: Create a terraform plan
 author: Daniel Flook
 
